@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_EditText">380dp</dimen>
+    <dimen name="height_EditText">50dp</dimen>
+</resources>
